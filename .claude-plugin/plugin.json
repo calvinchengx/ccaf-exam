@@ -1,0 +1,19 @@
+{
+  "name": "ccaf-exam",
+  "version": "0.1.0",
+  "description": "Interactive practice exam for the Claude Certified Architect – Foundations certification. 149 scenario-based questions across 5 domains, run in your terminal via /ccaf-exam with scaled scoring and per-domain breakdown.",
+  "author": {
+    "name": "Calvin Cheng",
+    "url": "https://calvinx.com"
+  },
+  "homepage": "https://calvinx.com",
+  "keywords": [
+    "claude",
+    "certification",
+    "architect",
+    "foundations",
+    "exam",
+    "practice",
+    "quiz"
+  ]
+}
