@@ -8,6 +8,8 @@ A community-built practice exam for the **Claude Certified Architect – Foundat
 
 149 scenario-based questions across 5 domains. Run `/ccaf-exam` in your terminal for an interactive, scored session.
 
+![/ccaf-exam demo](assets/demo.gif)
+
 ---
 
 ## Install
